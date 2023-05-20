@@ -1,0 +1,10 @@
+C:\Users\Olive\StudioProjects\FtcRobotController\rust\target\debug\deps\windows_sys-0ac32d3102c1090c.rmeta: C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\lib.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\Win32\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\Win32\Globalization\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\core\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\core\literals.rs
+
+C:\Users\Olive\StudioProjects\FtcRobotController\rust\target\debug\deps\windows_sys-0ac32d3102c1090c.d: C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\lib.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\Win32\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\Win32\Globalization\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\core\mod.rs C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\core\literals.rs
+
+C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\lib.rs:
+C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\mod.rs:
+C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\Win32\mod.rs:
+C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\Windows\Win32\Globalization\mod.rs:
+C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\core\mod.rs:
+C:\Users\Olive\.cargo\registry\src\github.com-1ecc6299db9ec823\windows-sys-0.45.0\src\core\literals.rs:
