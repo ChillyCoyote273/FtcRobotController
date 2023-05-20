@@ -1,0 +1,20 @@
+rust_binary {
+    name: "hello_rust",
+
+    // srcs must contain a single source file, the entry point source.
+    srcs: ["src/hello_rust.rs"],
+
+    // rustlibs are Rust library dependencies. The type, rlib (static) or dylib
+    // (dynamic), are chosen automatically based on module type and target
+    // to avoid linkage issues.
+    rustlibs: ["libsimple_printer"],
+
+    // define any additional compilation flags
+    flags: [
+        "-C debug-assertions=yes",
+    ],
+
+    // cc libraries can be linked in to rust binaries and libraries through the
+    // shared_libs and static_libs properties. These are not needed for this
+    // simple example, so they are not included.
+}

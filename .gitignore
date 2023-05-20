@@ -85,7 +85,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-
-# rust build output
-rust/target
-rust/Cargo.lock

@@ -1,0 +1,11 @@
+// rust_library provides dylib and rlib variants.
+rust_library {
+    //name or stem properties must be of the form lib<crate_name><any_suffix>
+    name: "libsimple_printer",
+
+    //crate_name must match the name used in source (e.g. extern crate <name>)
+    crate_name: "simple_printer",
+
+    //srcs must contain a single source file, the entry point source
+    srcs: ["src/lib.rs"],
+}

@@ -12,7 +12,7 @@ public class OpModeInjector {
 		OpModeMeta metaData = new OpModeMeta.Builder()
 				.setSource(OpModeMeta.Source.ANDROID_STUDIO)
 				.setFlavor(OpModeMeta.Flavor.TELEOP)
-				.setName("experimental opmode")
+				.setName("experimental")
 				.setGroup("test")
 				.build();
 

@@ -118,21 +118,7 @@ android {
         jni.srcDirs = []
         jniLibs.srcDir rootProject.file('libs')
     }
-    ndkVersion '25.2.9519653'
-}
-
-apply plugin: 'org.mozilla.rust-android-gradle.rust-android'
-
-cargo {
-    module = "../rust"
-    libname = "rust"
-    targets = ["arm64"]
-}
-
-tasks.whenTaskAdded { task ->
-    if ((task.name == 'javaPreCompileDebug' || task.name == 'javaPreCompileRelease')) {
-        task.dependsOn 'cargoBuild'
-    }
+    ndkVersion '21.3.6528147'
 }
 
 repositories {
